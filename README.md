@@ -24,9 +24,12 @@ A Korean language learning app designed to make mastering Hangul engaging and ac
 created for my mother, still working on it
 
 
-**[Pantone color tetris game](https://pantonetetris.com/#/))**
+**[Pantone color tetris game](https://pantonetetris.com/#/)**
+
+
 username:tiffanyhollbuk@gmail.com
- password:testing
+
+password:testing
 
 ### Let's Connect!
 
