@@ -17,6 +17,11 @@ I'm a passionate technologist and language enthusiast based in London, engaged i
 A Korean language learning app designed to make mastering Hangul engaging and accessible. This project reflects my interest in leveraging technology to facilitate language learning.
 
 - 📚 Features interactive lessons and quizzes
+### Everything Gridview
+
+**[MAMA GRIDVIEWGAME](https://github.com/tiffjai/cantorean](https://tiffjai.github.io/MAMA-gridview-gAmE/)**
+
+created for my mother, still working on it
 
 
 ### Let's Connect!
