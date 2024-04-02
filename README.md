@@ -19,7 +19,7 @@ A Korean language learning app designed to make mastering Hangul engaging and ac
 - 📚 Features interactive lessons and quizzes
 ### Everything Gridview
 
-**[MAMA GRIDVIEWGAME](https://github.com/tiffjai/cantorean](https://tiffjai.github.io/MAMA-gridview-gAmE/)**
+**[MAMA GRIDVIEWGAME](https://tiffjai.github.io/MAMA-gridview-gAmE/)**
 
 created for my mother, still working on it
 
