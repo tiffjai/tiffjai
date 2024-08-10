@@ -2,38 +2,37 @@
 
 ## Hi there! I'm Tiffany Ho 👋
 
-I'm a passionate technologist and language enthusiast based in London, engaged in the fascinating world of data science. I love exploring the intersection of technology and language learning.
+I'm a tech trainee at La Fosse and a passionate technologist based in London, exploring the intersection of data science, language learning, and web development.
 
 ### About Me
+- 🎓 SQE student and Data Science bootcamp graduate
+- 💼 Tech trainee at La Fosse
+- 🌱 Constantly improving my skills in data analysis, machine learning, and web development
+- 🌏 Enthusiastic about leveraging technology for language learning and communication
 
-- 🎓 SQE student and Data Science bootcamp attendee
-- 🌱 Currently honing my skills in data analysis and machine learning
-- 🌏 Exploring language processing to bridge communication gaps
+### Featured Projects
 
-### Featured Project: Cantorean
+#### Tic-Tac-Minesweeper
+**[Tic-Tac-Minesweeper](https://tiffjai.github.io/tic-tac-minesweeper)**
+An exciting blend of Tic-Tac-Toe and Minesweeper, featuring:
+- 9x9 grid with hidden mines
+- Real-time multiplayer using Socket.IO
+- Built with React.js (frontend) and Node.js (backend)
 
-**[cantorean](https://github.com/tiffjai/cantorean)**
+[View Repository](https://github.com/tiffjai/tic-tac-minesweeper)
 
-A Korean language learning app designed to make mastering Hangul engaging and accessible. This project reflects my interest in leveraging technology to facilitate language learning.
-
+#### Cantorean
+**[Cantorean](https://github.com/tiffjai/cantorean)**
+A Korean language learning app designed to make mastering Hangul engaging and accessible.
 - 📚 Features interactive lessons and quizzes
+
 ### Everything Gridview
-
-**[MAMA GRIDVIEWGAME](https://tiffjai.github.io/MAMA-gridview-gAmE/)**
-
-created for my mother, still working on it
-
-
-**[Pantone color tetris game](https://pantonetetris.com/#/)**
-
-
-username:tiffanyhollbuk@gmail.com
-
-password:testing
+- **[MAMA GRIDVIEWGAME](https://tiffjai.github.io/MAMA-gridview-gAmE/)**: Created for my mother (work in progress)
+- **[Pantone Color Tetris Game](https://pantonetetris.com/#/)**
+  - Username: tiffanyhollbuk@gmail.com
+  - Password: testing
 
 ### Let's Connect!
-
-Feel free to check out my repositories and reach out if you have any questions or collaboration ideas.
+Feel free to explore my repositories and reach out for questions or collaboration ideas.
 
 [![GitHub followers](https://img.shields.io/github/followers/tiffjai?style=social)](https://github.com/tiffjai)
-
