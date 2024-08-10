@@ -13,7 +13,7 @@ I'm a tech trainee at La Fosse and a passionate technologist based in London, ex
 ### Featured Projects
 
 #### Tic-Tac-Minesweeper
-**[Tic-Tac-Minesweeper](https://tiffjai.github.io/tic-tac-minesweeper)**
+**[Tic-Tac-Minesweeper]([https://tiffjai.github.io/tic-tac-minesweeper](https://tiffjai.github.io/TIC-TAC-MINE/)**
 An exciting blend of Tic-Tac-Toe and Minesweeper, featuring:
 - 9x9 grid with hidden mines
 - Real-time multiplayer using Socket.IO
