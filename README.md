@@ -19,7 +19,6 @@ An exciting blend of Tic-Tac-Toe and Minesweeper, featuring:
 - Real-time multiplayer using Socket.IO
 - Built with React.js (frontend) and Node.js (backend)
 
-[View Repository](https://github.com/tiffjai/tic-tac-minesweeper)
 
 #### Cantorean
 **[Cantorean](https://github.com/tiffjai/cantorean)**
