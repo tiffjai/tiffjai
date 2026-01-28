@@ -46,6 +46,6 @@ A Korean language learning app designed to make Hangul engaging:
 If you’re working on **AML / fraud / financial crime data**, I’d love to collaborate or learn from your approach.
 
 - GitHub: https://github.com/tiffjai
-- LinkedIn: (add your link here)
+- LinkedIn: (https://www.linkedin.com/in/tiffanywingkaho)
 
 [![GitHub followers](https://img.shields.io/github/followers/tiffjai?style=social)](https://github.com/tiffjai)
