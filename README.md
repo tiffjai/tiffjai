@@ -1,51 +1,58 @@
-# Hi, I'm Tiffany Ho 👋
+# 💿 Tiffany Ho
 
-I’m a London-based **aspiring AML / Financial Crime Data Scientist** with a background in **data science + software engineering**, passionate about using ML and analytics to detect suspicious behaviour, reduce false positives, and support investigators with clear, explainable insights.
+### Y2K auntie bringing the good old internet back: now powered by AI.
 
-## What I’m focusing on now
-- 🔎 **AML & Financial Crime Analytics** (transaction monitoring, typologies, alert triage, customer risk)
-- 🧠 **Machine Learning** (anomaly detection, classification, model monitoring, explainability)
-- 🕸️ **Graph / Network Analysis** (entity resolution, suspicious networks, relationship patterns)
-- 🗣️ **NLP** (case narratives, adverse media signals, summarisation for investigators)
-- 🧰 **Data Engineering basics** (clean pipelines, data quality checks, reproducible workflows)
+```txt
+📍 London
+💻 AI Engineer × Legal Tech Builder
+💿 Raised by MSN, Winamp, Nokia ringtones and glitter GIFs
+🤖 Building futuristic technology with old-school internet soul
+```
 
-## Tech stack
-**Python** (pandas, numpy, scikit-learn) • SQL • Jupyter • Git/GitHub  
-**Web**: React, Node.js, Express • API integration • Testing
+I’m a former human-rights paralegal turned AI engineer, building projects across **graph machine learning, agentic AI, legal technology and physical computing**.
 
-## Featured Projects
+These days, I’m usually:
 
-### Tic-Tac-Minesweeper
-**[Play here](https://tiffjai.github.io/TIC-TAC-MINE/)**  
-A hybrid game blending Tic-Tac-Toe + Minesweeper:
-- 9x9 grid with hidden mines  
-- Real-time multiplayer (Socket.IO)  
-- React.js (frontend) + Node.js (backend)
+* 🕸️ Detecting financial crime with Graph Neural Networks
+* ⚖️ Building AI tools for legal research and compliance
+* 🧶 Teaching knitting machines how to think
+* 🧠 Experimenting with AI agents, RAG and weird little internet products
+* 📟 Trying to make software feel fun again
 
-> Why it matters: real-time state, event streams, and probability-style thinking — useful habits for detection systems.
+## Featured projects
 
-### Cantorean
-**[Repo](https://github.com/tiffjai/cantorean)**  
-A Korean language learning app designed to make Hangul engaging:
-- Interactive lessons + quizzes
+### 🛡️ CryptoGuard
 
-> Why it matters: structured content, UX iteration, and building learning loops (useful for investigator tools & internal enablement).
+A heterogeneous graph-learning system for detecting suspicious cryptocurrency transactions.
 
-### Gridview Experiments
-- **[MAMA GRIDVIEWGAME](https://tiffjai.github.io/MAMA-gridview-gAmE/)** — WIP game prototype  
-- **[Pantone Color Tetris Game](https://pantonetetris.com/#/)** — visual/pattern-based gameplay
+### ⚖️ Find Case Law MCP
 
-> Note: I removed public login credentials from this README for security.
+An AI-powered legal research tool connected to The National Archives case-law database.
 
-## What I’m building next (AML direction)
-- 🧩 **Synthetic transaction dataset + AML typology simulator** (layering, smurfing, mule chains)
-- 📈 **Alert prioritisation model** (reduce false positives with explainable features)
-- 🕵️ **Investigator dashboard prototype** (case summary, entity graph, timeline)
+### 👗 Wardrobe Brain
 
-## Let’s connect
-If you’re working on **AML / fraud / financial crime data**, I’d love to collaborate or learn from your approach.
+A computer-vision wardrobe assistant that helps people understand and style the clothes they already own.
 
-- GitHub: https://github.com/tiffjai
-- LinkedIn: (https://www.linkedin.com/in/tiffanywingkaho)
+### 🧶 Automated Knitting Machine
 
-[![GitHub followers](https://img.shields.io/github/followers/tiffjai?style=social)](https://github.com/tiffjai)
+A Raspberry Pi-powered yarn-changing system combining AI, robotics and textile engineering.
+
+## My stack
+
+`Python` `PyTorch` `PyTorch Geometric` `FastAPI` `Neo4j` `MLflow`
+`Next.js` `React` `Spark` `Databricks` `Raspberry Pi` `Claude Code`
+
+## My philosophy
+
+> The future should be intelligent, useful and slightly glittery.
+
+Currently bringing back:
+
+`personal websites` · `tiny tools` · `digital pets` · `human creativity` · `the good old web`
+
+---
+
+📫 **Based in London — open to AI engineering, ML engineering and legal-tech opportunities.**
+
+⭐ Welcome to my little corner of the internet. Best viewed with imagination and a fictional dial-up connection.
+
