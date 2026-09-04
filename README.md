@@ -1,11 +1,11 @@
 # 💿 Tiffany Ho
 
-### Y2K auntie bringing the good old internet back: now powered by AI.
+### Bringing the good old internet back — now powered by AI.
 
 ```txt
 📍 London
 💻 AI Engineer × Legal Tech Builder
-💿 Raised by MSN, Winamp, Nokia ringtones and glitter GIFs
+💿 Raised on MSN, Winamp, Nokia ringtones and glitter GIFs
 🤖 Building futuristic technology with old-school internet soul
 ```
 
@@ -28,6 +28,12 @@ A heterogeneous graph-learning system for detecting suspicious cryptocurrency tr
 ### ⚖️ Find Case Law MCP
 
 An AI-powered legal research tool connected to The National Archives case-law database.
+
+### 🤖 Alpaca AI Trading Agent
+
+An autonomous, risk-gated AI trading system built for the **Alpaca AI Trading Hackathon**, combining agentic decision-making, portfolio risk controls and Alpaca's trading infrastructure.
+
+**GitHub:** https://github.com/tiffjai/alpacahackathon
 
 ### 👗 Wardrobe Brain
 
